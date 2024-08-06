@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "cmake.configureOnOpen": true,
+    "cmake.showOptionsMovedNotification": false,
+    "explorer.confirmDelete": false,
+    "svelte.enable-ts-plugin": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "arduino.useArduinoCli": true,
+    "workbench.startupEditor": "none",
+    "application.shellEnvironmentResolutionTimeout": 15,
+    "redhat.telemetry.enabled": true,
+    "remote.SSH.remotePlatform": {
+        "*.gitpod.io": "linux"
+    },
+    "window.zoomLevel": 1,
+    "git.openRepositoryInParentFolders": "never"
+}
